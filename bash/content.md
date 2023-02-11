@@ -1,0 +1,4 @@
+ - shell introduction
+ - bashrc
+ - bash_aliases
+ - obo's custom history function
