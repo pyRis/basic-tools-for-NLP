@@ -2,7 +2,7 @@
 Repository for dry run in SS'23 of a proposed course (in WS'24) to introduce CoLi students to bash, vim, git, latex, PEP etc.
 
 # Tentative course plan
-\
+
 ## Week 1: Introduction and Course Overview
 \
 Introduction to the course and its objectives \
@@ -60,7 +60,7 @@ Exercise
 ## [Week 8: Advanced Python](https://github.com/pyRis/basic-tools-for-NLP/tree/main/python)
  \
 *tbd* \
-@Chris, please fill in when you are better \
+@Chris, please fill in when you are better 
 
 ## [Week 9: Cluster Computing](https://github.com/pyRis/basic-tools-for-NLP/tree/main/cluster)
  \
@@ -86,4 +86,4 @@ Overview of reference management tools \
 Automating reference management tasks  \
 Extracting references from documents \
 Managing references using BibTeX \
-Customizing reference management workflow \
+Customizing reference management workflow 
