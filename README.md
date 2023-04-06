@@ -9,7 +9,7 @@ Introduction to the course and its objectives
 Logistics: have linux / Mac OS or WSL (have to write that they can't use windows), coli account to use cluster nodes
 
 
-## Week 2: [\*nix System](https://github.com/pyRis/basic-tools-for-NLP/tree/main/linux)
+## [Week 2: \*nix System](https://github.com/pyRis/basic-tools-for-NLP/tree/main/linux)
 
 Understanding \*nix file system hierarchy (Navigation and file manipulation in Bash)
 Managing users and groups in \*nix
@@ -17,7 +17,7 @@ File permissions and ownership in \*nix
 Managing processes and services in \*nix 
 Basic system troubleshooting and maintenance in \*nix 
 
-## Week 3: Bash Commands 
+## [Week 3: Bash Commands](https://github.com/pyRis/basic-tools-for-NLP/tree/main/bash)
 
 Significance of Bash in Unix-based systems
 Basic commands and syntax in Bash
@@ -25,14 +25,14 @@ Basic scripting concepts in Bash
 Regular expressions in Bash
 Introduction to Bash variables and environment variables
 
-## Week 4: Advanced Bash Tools
+## [Week 4: Advanced Bash Tools](https://github.com/pyRis/basic-tools-for-NLP/tree/main/bash-tools)
 
 Control flow statements (if-else, loops)
 Functions and script organization in Bash
 Debugging and error handling in Bash
 Advanced text processing using Bash
 
-## Week 5: Vim Text Editor
+## [Week 5: Vim Text Editor](https://github.com/pyRis/basic-tools-for-NLP/tree/main/vim)
 
 Introduction to Vim text editor
 Basic Vim commands and modes
@@ -40,7 +40,7 @@ Editing and navigating files in Vim
 Customizing Vim settings
 Advanced Vim features and plugins
 
-## Week 6: Git for Version Control
+## [Week 6: Git for Version Control](https://github.com/pyRis/basic-tools-for-NLP/tree/main/git)
 
 Introduction to version control
 Understanding Git and its features
@@ -49,7 +49,7 @@ Basic Git commands (add, commit, push, pull)
 Branching and merging in Git
 
 
-## Week 7: Python
+## [Week 7: Python](https://github.com/pyRis/basic-tools-for-NLP/tree/main/python)
 
 Introduction to Python
 Pep8 coding standards -- code formatter
@@ -57,12 +57,12 @@ IDEs/Anaconda(Jupyter Notebooks) VS Code
 Exercise
 
 
-## Week 8: Advanced Python
+## [Week 8: Advanced Python](https://github.com/pyRis/basic-tools-for-NLP/tree/main/python)
 
 *tbd*
 @Chris, please fill in when you are better
 
-## Week 9: Cluster Computing
+## [Week 9: Cluster Computing](https://github.com/pyRis/basic-tools-for-NLP/tree/main/cluster)
 
 Introduction to cluster computing
 Managing clusters using Bash
@@ -71,7 +71,7 @@ Parallel computing with Bash
 Introduction to cluster scheduling systems (such as Slurm)
 
 
-## Week 10: Introduction to LaTeX
+## [Week 10: Introduction to LaTeX](https://github.com/pyRis/basic-tools-for-NLP/tree/main/latex)
 
 Overview of LaTeX and its features
 Creating documents and presentation using LaTeX
@@ -80,7 +80,7 @@ Managing references and citations in LaTeX
 Creating bibliographies using BibTeX in LaTeX
 
 
-## Week 11: Reference Management Tools and Conclusion
+## [Week 11: Reference Management Tools and Conclusion](https://github.com/pyRis/basic-tools-for-NLP/tree/main/reference-management)
 
 Overview of reference management tools
 Automating reference management tasks 
