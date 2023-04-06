@@ -9,7 +9,7 @@ Introduction to the course and its objectives
 Logistics: have linux / Mac OS or WSL (have to write that they can't use windows), coli account to use cluster nodes
 
 
-## Week 2: \*nix System
+## Week 2: [\*nix System](https://github.com/pyRis/basic-tools-for-NLP/tree/main/linux)
 
 Understanding \*nix file system hierarchy (Navigation and file manipulation in Bash)
 Managing users and groups in \*nix
