@@ -1,6 +1,6 @@
 # basic-tools-for-NLP
 Repository for dry run in SS'23 of a proposed course (in WS'23) to introduce CoLi students to bash, vim, git, latex, PEP etc.
-
+Test_sentence
 # Tentative course plan
 
 ## Week 1: Introduction and Course Overview
